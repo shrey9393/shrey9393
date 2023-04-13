@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">
+A passionate frontend developer from India.
+<img align="right" src="https://vectorified.com/images/coder-icon-9.png" width="200" />
+</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
