@@ -19,7 +19,11 @@ A passionate frontend developer from India.
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shreyanshagrawal9393?ext=heatmap)
 
 
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shrey9393&count_private=true&theme=tokyonight&showicons=true)]()
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrey9393&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey9393&langs_count=5&theme=tokyonight)]()
