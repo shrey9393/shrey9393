@@ -33,7 +33,7 @@ A passionate frontend developer from India.
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shrey9393&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey9393&langs_count=5&theme=tokyonight)]() -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey9393&langs_count=5&theme=tokyonight)]()
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrey9393&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
