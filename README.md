@@ -28,10 +28,10 @@ A passionate frontend developer from India!
 </p>
 
 
+<img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=shrey9393&data=followers,repositories,stars,commits&theme=darkmode&title_color=0400ff">
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shreyanshagrawal9393?ext=heatmap)
 
-
-<img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=shrey9393&data=followers,repositories,stars,commits&theme=darkmode&title_color=0400ff">
 
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shrey9393&count_private=true&theme=tokyonight&showicons=true)]() -->
@@ -41,10 +41,12 @@ A passionate frontend developer from India!
 <!-- <img alt="top languages" width="372.67px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shrey9393&hide=html&langs_count=6&layout=compact&theme=dracula"></img>
 
  -->
-<a href="https://github.com/shrey9393" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey9393&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrey9393&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+
+<a href="https://github.com/shrey9393" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey9393&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
