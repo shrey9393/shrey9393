@@ -35,7 +35,8 @@ A passionate frontend developer from India!
 </p>
 
 
-<img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=shrey9393&data=followers,repositories,stars,commits&theme=darkmode&title_color=0400ff">
+
+<a href="https://github.com/shrey9393" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey9393&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shreyanshagrawal9393?ext=heatmap)
 
