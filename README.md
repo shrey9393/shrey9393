@@ -57,6 +57,10 @@ A passionate full-Stack developer from India!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrey9393&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 
+
+
 <a href="https://github.com/shrey9393" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey9393&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
+
+![Shreyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrey9393&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
