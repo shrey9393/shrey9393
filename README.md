@@ -1,6 +1,6 @@
 <p>
 <h1 align="left">Hi👋, 
-I'm Shreyansh.</h1>
+I'm  Shreyansh.</h1>
 <h3 align="left">
 A passionate full-Stack developer from India!
 <img align="right" src="https://vectorified.com/images/coder-icon-9.png" width="200" />
