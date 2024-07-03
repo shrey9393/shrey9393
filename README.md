@@ -23,13 +23,15 @@ A passionate full-Stack developer from India!
 
 </p>
 <br>
-
+<!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shreyanshagrawal9393?theme=dark&font=Cute%20Font&ext=heatmap)
+-->
 
+<!-- 
 <h3 align="left">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey9393&theme=nightowl" alt="shrey9393" /></p>
-
-
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey9393&theme=nightowl" alt="shrey9393" /></p> 
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shrey9393&theme=nightowl"/>
+-->
+
 
